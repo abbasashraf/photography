@@ -1,0 +1,129 @@
+body{
+    background-color:#2A2B2B;
+}
+.header{
+    
+    width: 75%;
+    height: 150px;
+    margin-left: 250px;
+    color: white;
+    background-color: hsla(0, 20%, 30%, 0.5);
+    
+    
+    
+
+}
+.body{
+    
+    width: 75%;
+    height: 700px;
+    margin-left: 250px;
+   
+}
+
+.image{
+    margin-left: 10px;
+    padding-top: 10px;
+}
+.nav{
+    margin-left: 50px;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 20px;
+       font: normal normal normal 18px/1.1em Jura,sans-serif;
+    
+}
+div.pic1{
+    position: relative;
+    width: 250px;
+    height: 500px;
+    top: -80px;
+    left: 0px;
+}
+div.pic2{
+    width: 250px;
+    height: 500px;
+    position: relative;
+    top: 60px;
+    left: 50px;
+  
+}
+div.pic3{
+    width: 250px;
+    height: 700px;
+    position: relative;
+    top: -50px;
+    left: 100px;
+}
+div.pic4{
+    width: 250px;
+    height: 700px;
+    position: relative;
+    top: 0px;
+    right: -160px;
+}
+.pos1{
+    border: 2px solid	#837455;
+    width: 250px;
+    height: 80px;
+    position: relative;
+    top: -111.5%;
+    left: 190px;
+    background-color: 	#837455;
+    font-size: 24px;
+}
+.pos2{
+    border: 2px solid 	#B03B00;
+    width: 230px;
+    height: 75px;
+    position: relative;
+    top: -43.2%;
+    left: 32%;
+    background-color: 	#B03B00;
+    font-size: 23px;
+}
+.pos3{
+    border: 2px solid #D29A13;
+    width: 170px;
+    height: 75px;
+    position: relative;
+    top: -115%;
+    left: 48.6%;
+    background-color: 	#D29A13;
+    font-size: 24px;
+    padding-bottom: 4px;
+}
+.pos4{
+    border: 2px solid #BA7B76;
+    width: 322px;
+    height: 75px;
+    position: relative;
+    top: -63.7%;
+    left: 60%;
+    background-color: #BA7B76;
+    font-size: 24px;
+}
+
+
+li.li{
+    display: inline-block;
+    float: right;
+    padding-right: 1em;
+    margin-right: 1em;
+    margin-top: 2em;
+}
+.footer{
+   
+    width: 63%;
+    height: 150px;
+    margin-left: 250px;
+    
+}
+p{
+    color: white;
+}
+.lia{
+    float: left;
+    display: inline-block;
+    margin-top: 2em;
+}
